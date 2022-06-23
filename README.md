@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vamc-44
+- 👋 Hi, I’m @Vamc-44 An ML Enthusiast
 - 👀 I’m interested in Data Science -_-
 - 🌱 I’m currently learning Fundamentals of DataScience with pyhton :)
 - 📫 How to reach me ... u can mail me @vamshidhar.reddy19@ifheindia.org 

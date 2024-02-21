@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vamc-44 
 - 👀 Data Science Enthusisat and Data Analytics interested pe
 - 🌱 Working as a student Intern @Recvue 
-- 📫 How to reach me ... u can mail me @vamshidhar.reddy19@ifheindia.org 
+- 📫 How to reach me ... u can mail me @vamshidhar.1109@gmail.com
 
 
 
